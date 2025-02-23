@@ -1,0 +1,11 @@
+content/
+masks/
+bin/
+lib/
+include/
+lib64/
+*.keras
+*.tflite
+.DS_Store
+lib64
+pyvenv.cfg

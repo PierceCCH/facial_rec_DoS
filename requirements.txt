@@ -1,0 +1,6 @@
+tensorflow==2.18.0
+opencv-python==4.11.0
+numpy==2.2.3
+pillow==11.1.0
+scipy==1.15.2
+flatbuffers==25.2.10
